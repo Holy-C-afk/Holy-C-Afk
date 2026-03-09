@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Holy-C-afk/Holy-C-Afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 Hi, I'm Tachfine <br><br>I'm a goated developer, AI engineer, and tester who loves building cool things with technology. I enjoy exploring artificial intelligence, automation, and new tools that make life easier and smarter.<br><br>Most of the time you'll find me experimenting with ideas, creating projects, testing systems, and learning something new every day. I'm passionate about solving problems, improving software, and pushing my skills further.<br><br>For me, coding isn't just work — it's something I genuinely enjoy. I'm always curious about what's next in tech and how AI can help build better solutions for the future.
 
 
@@ -25,9 +16,3 @@ Hi, I'm Tachfine <br><br>I'm a goated developer, AI engineer, and tester who lov
 [![](https://visitcount.itsvg.in/api?id=Holy-C-afk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
